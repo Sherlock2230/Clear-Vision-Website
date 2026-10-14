@@ -1,0 +1,11 @@
+{
+  // Cloudflare Workers static-assets config. Everything in ./public is served as-is.
+  "$schema": "node_modules/wrangler/config-schema.json",
+  "name": "clear-visions-website",
+  "compatibility_date": "2026-10-01",
+  "assets": {
+    "directory": "./public",
+    "html_handling": "auto-trailing-slash",
+    "not_found_handling": "404-page"
+  }
+}
