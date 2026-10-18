@@ -2,9 +2,9 @@
 // TODO: replace the phone/WhatsApp number — +263 77 123 4567 is the placeholder from the design.
 window.SITE = {
   name: "Clear Visions Windscreens",
-  phoneDisplay: "+263 77 123 4567",
-  phoneTel: "+263771234567",
-  whatsapp: "263771234567", // digits only, country code first, no + or spaces
+  phoneDisplay: "+263 78 391 5008",
+  phoneTel: "+263783915008",
+  whatsapp: "263783915008", // digits only, country code first, no + or spaces
 };
 
 window.waLink = function (message) {
