@@ -18,8 +18,8 @@
   --white: #ffffff;
   --radius: 18px;
   --shadow: 0 12px 30px rgba(11, 35, 64, 0.12);
-  --font-display: "Bricolage Grotesque", "Segoe UI", system-ui, sans-serif;
-  --font-body: "Inter", "Segoe UI", Arial, system-ui, sans-serif;
+  --font-display: "Montserrat", "Segoe UI", system-ui, sans-serif;
+  --font-body: "Montserrat", "Segoe UI", Arial, system-ui, sans-serif;
 }
 
 *, *::before, *::after { box-sizing: border-box; }
